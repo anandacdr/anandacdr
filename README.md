@@ -41,9 +41,9 @@ As a machine learning engineer and web developer, I am constantly learning and e
 
 ![Ananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandacdr&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=anandacdr&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=anandacdr&theme=gruvbox&border_radius=4.5)
 
-
+ 
 
 <details>
  <summary><h3>👨‍💻 Ananda's Coding Journey</h3></summary>
