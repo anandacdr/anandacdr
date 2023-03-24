@@ -13,7 +13,7 @@ My passion for data science and machine learning has driven me to develop a stro
 As a machine learning engineer and web developer, I am constantly learning and expanding my skill set to keep up with the ever-changing technology landscape. I am excited to work with a team that shares my enthusiasm for innovation and creativity.
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/anandacdr?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anandacdr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
