@@ -2,7 +2,7 @@
 ### Hi there 
 **anandacdr/anandacdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-**`Student/Developer`**
+**`Student/Developer/DataScientist`**
 
 Hello👋, I'm a Machine Learning Engineer and Web Developer. My diverse skill set enables me to work on a variety of projects, from developing web applications to designing machine learning models that can solve complex problems.
 
