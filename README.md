@@ -12,7 +12,7 @@ My passion for data science and machine learning has driven me to develop a stro
 
 As a machine learning engineer and web developer, I am constantly learning and expanding my skill set to keep up with the ever-changing technology landscape. I am excited to work with a team that shares my enthusiasm for innovation and creativity.
 
-Learn More About Me : https://www.anandachaudhary.com.np/
+Learn More About Me : 
 
    <p align="left">
       <a href="https://github.com/anandacdr?tab=repositories&sort=stargazers">
@@ -52,5 +52,5 @@ Learn More About Me : https://www.anandachaudhary.com.np/
 
 My goal is to use my skills and knowledge to drive innovation and make a positive impact on the world. I am committed to continuously learning and growing my skills, and I am eager to work with a team of like-minded individuals who share my passion for technology and problem-solving. I believe that my background, skills, and commitment make me a valuable asset to any organization, and I am excited to take the next step in my career.
 
-[website]: https://www.anandachaudhary.com.np/
-[youtube]: https://youtube.com/flyingananda
+[website]: 
+[youtube]: 
