@@ -4,7 +4,7 @@
 -->
 **`Student/Developer/DataScientist`**
 
-Hello👋, I'm a Machine Learning Engineer and Web Developer. My diverse skill set enables me to work on a variety of projects, from developing web applications to designing machine learning models that can solve complex problems.
+Hello👋, I'm a Machine Learning Learner and Web Developer. My diverse skill set enables me to work on a variety of projects, from developing web applications to designing machine learning models that can solve complex problems.
 
 With my expertise in programming languages such as Python and JavaScript, I can build high-quality software applications that meet the needs of clients and end-users. I have experience in developing front-end and back-end components of web applications, which allows me to create seamless and user-friendly interfaces.
 
